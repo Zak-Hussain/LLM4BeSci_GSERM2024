@@ -11,7 +11,6 @@ The course introduces the use of open-source large language models (LLMs) from t
 12:00 PM - 01:30 PM: Lunch<br>
 01:30 PM - 02:30 PM: Talk: A gentle intro to Python and Hugging Face<br>
 02:30 PM - 03:15 PM: Exercise: Script showcasing pipelines<br>
-03:15 PM - End
 
 #### Day 2
 09:15 AM - 09:45 AM: Recap quiz<br>
@@ -20,7 +19,6 @@ The course introduces the use of open-source large language models (LLMs) from t
 11:00 AM - 12:00 PM: Talk: Intro to transformers & embeddings (continued)<br>
 12:00 PM - 01:30 PM: Lunch<br>
 01:30 PM - 03:15 PM: Exercise: Clarifying personality psychology<br>
-03:15 PM - End
 
 #### Day 3
 09:15 AM - 09:45 AM: Recap quiz<br>
@@ -30,7 +28,6 @@ The course introduces the use of open-source large language models (LLMs) from t
 12:00 PM - 01:30 PM: Lunch<br>
 01:30 PM - 02:30 PM: Exercise: Classifying misinformation w/ fine-tuning<br>
 02:30 PM - 03:15 PM: Discussion: Pros & Cons of fine-tuning<br>
-03:15 PM - End
 
 #### Day 4
 09:15 AM - 09:45 AM: Recap quiz<br>
@@ -40,7 +37,6 @@ The course introduces the use of open-source large language models (LLMs) from t
 12:00 PM - 01:30 PM: Lunch<br>
 01:30 PM - 02:30 PM: Exercise: Steering survey responses<br>
 02:30 PM - 03:15 PM: Discussion: Pro & Con of synthetic participants<br>
-03:15 PM - End
 
 #### Day 5
 09:15 AM - 09:45 AM: Recap quiz<br>
@@ -50,7 +46,6 @@ The course introduces the use of open-source large language models (LLMs) from t
 12:00 PM - 01:30 PM: Lunch<br>
 01:30 PM - 03:00 PM: Project pitches<br>
 03:00 PM - 03:15 PM: Wrap up<br>
-03:15 PM - End
 
 
 ### Resources
