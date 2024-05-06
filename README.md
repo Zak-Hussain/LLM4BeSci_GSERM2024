@@ -66,7 +66,7 @@ The course introduces the use of open-source large language models (LLMs) from t
 [Hugging face documentation](https://huggingface.co/docs)<br>
 [Hugging face book](https://transformersbook.com/)
 
-#### Installation Instructions
+### Installation Instructions
 1. If you do not have a Google account, you will need to create one (this can be deleted after the workshop).
 2. Navigate to Google Drive (https://drive.google.com/).
 3. In the top-left, click New > More > Colaboratory. If you do not see Colaboratory, you may need to click "Connect more apps", 
