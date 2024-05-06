@@ -64,7 +64,8 @@ The course introduces the use of open-source large language models (LLMs) from t
 }
 ```
 [Hugging face documentation](https://huggingface.co/docs)<br>
-[Hugging face book](https://transformersbook.com/)
+[Hugging face book](https://transformersbook.com/)<br>
+[But what is a GPT (3Blue1Brown)](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)<br>
 
 ### Installation Instructions
 1. If you do not have a Google account, you will need to create one (this can be deleted after the workshop).
