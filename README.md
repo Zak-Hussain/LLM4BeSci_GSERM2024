@@ -11,7 +11,7 @@ Instructors: [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and 
 09:45 AM - 10:45 AM: Talk: Intro to LLMs<br>
 10:45 AM - 11:00 AM: Break<br>
 11:00 AM - 12:00 PM: Discussion: Find applications in small groups<br>
-12:00 PM - 01:30 PM: Lunch<br>
+12:00 PM - 01:00 PM: Lunch<br>
 01:00 PM - 02:00 PM: Talk: A gentle intro to Hugging Face and Python<br>
 02:00 PM - 02:15 PM: Setup Colab<br>
 02:15 PM - 02:45 PM: Exercise: Running pipelines<be>
