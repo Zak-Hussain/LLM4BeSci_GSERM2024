@@ -1,5 +1,8 @@
-## LLM4BeSci_GSERM2024
-The course introduces the use of open-source large language models (LLMs) from the Hugging Face ecosystem for research in the behavioral and social sciences.
+## LLM4BeSci at GSERM2024
+
+The course introduces the use of open-source large language models (LLMs) from the Hugging Face ecosystem for research in the behavioral and social sciences. 
+
+Instructors: [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussain](Zak-Hussain.github.io)
 
 ### Schedule
 
@@ -9,8 +12,8 @@ The course introduces the use of open-source large language models (LLMs) from t
 10:45 AM - 11:00 AM: Break<br>
 11:00 AM - 12:00 PM: Exercise: Find applications in small groups<br>
 12:00 PM - 01:30 PM: Lunch<br>
-01:30 PM - 02:30 PM: Talk: A gentle intro to Python and Hugging Face<br>
-02:30 PM - 03:15 PM: Exercise: Script showcasing pipelines<br>
+01:30 PM - 02:30 PM: Talk: A gentle intro to Hugging Face and Python<br>
+02:30 PM - 03:15 PM: Exercise: Running pipelines<br>
 
 #### Day 2
 09:15 AM - 09:45 AM: Recap quiz<br>
@@ -22,27 +25,27 @@ The course introduces the use of open-source large language models (LLMs) from t
 
 #### Day 3
 09:15 AM - 09:45 AM: Recap quiz<br>
-09:45 AM - 10:45 AM: Intro to classification<br>
+09:45 AM - 10:45 AM: Intro to classification and regression<br>
 10:45 AM - 11:00 AM: Break<br>
-11:00 AM - 12:00 PM: Exercise: Classifying misinformation w/ zero & few-shot<br>
+11:00 AM - 12:00 PM: Exercise: Classifying media bias w/ zero & few-shot<br>
 12:00 PM - 01:30 PM: Lunch<br>
-01:30 PM - 02:30 PM: Exercise: Classifying misinformation w/ fine-tuning<br>
+01:30 PM - 02:30 PM: Exercise: Classifying media bias w/ fine-tuning<br>
 02:30 PM - 03:15 PM: Discussion: Pros & Cons of fine-tuning<br>
 
 #### Day 4
 09:15 AM - 09:45 AM: Recap quiz<br>
 09:45 AM - 10:45 AM: Intro to text generation & synthetic participants<br>
 10:45 AM - 11:00 AM: Break<br>
-11:00 AM - 12:00 PM: Exercise: delay discounting<br>
+11:00 AM - 12:00 PM: Exercise: Numeracy<br>
 12:00 PM - 01:30 PM: Lunch<br>
-01:30 PM - 02:30 PM: Exercise: Steering survey responses<br>
-02:30 PM - 03:15 PM: Discussion: Pro & Con of synthetic participants<br>
+01:30 PM - 02:30 PM: Exercise: Steering vaccine hesitancy response<br>
+02:30 PM - 03:15 PM: Discussion: Pros & Cons of synthetic participants<br>
 
 #### Day 5
 09:15 AM - 09:45 AM: Recap quiz<br>
 09:45 AM - 10:45 AM: Talk: Intro to qualitative data analysis<br>
 10:45 AM - 11:00 AM: Break<br>
-11:00 AM - 12:00 PM: Exercise: Article clustering<br>
+11:00 AM - 12:00 PM: Exercise: Article and interview Q&A<br>
 12:00 PM - 01:30 PM: Lunch<br>
 01:30 PM - 03:00 PM: Project pitches<br>
 03:00 PM - 03:15 PM: Wrap up<br>
