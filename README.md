@@ -23,7 +23,7 @@ Instructors: [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and 
 10:45 AM - 11:00 AM: Break<br>
 11:00 AM - 12:00 PM: Talk: Intro to transformers & embeddings (continued)<br>
 12:00 PM - 01:00 PM: Lunch<br>
-01:00 PM - 02:00 PM: Exercise: Clarifying personality psychology<be>
+01:00 PM - 02:00 PM: Exercise: Clarifying personality psychology<br>
 02:00 PM - 02:30 PM: Walkthrough<br>
 02:30 PM - 03:15 PM: Discussion: Find applications in small groups<br>
 
