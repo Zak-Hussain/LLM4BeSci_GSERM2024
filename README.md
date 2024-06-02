@@ -2,7 +2,7 @@
 
 The course introduces the use of open-source large language models (LLMs) from the Hugging Face ecosystem for research in the behavioral and social sciences. 
 
-Instructors: [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak-Hussain.github.io](https://zak-hussain.github.io/)
+Instructors: [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussain](https://zak-hussain.github.io/)
 
 ### Schedule
 
