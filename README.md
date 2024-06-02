@@ -10,44 +10,50 @@ Instructors: [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and 
 <font style="font-size:10">09:15 AM - 09:45 AM: Welcome & Intro<br>
 09:45 AM - 10:45 AM: Talk: Intro to LLMs<br>
 10:45 AM - 11:00 AM: Break<br>
-11:00 AM - 12:00 PM: Exercise: Find applications in small groups<br>
-12:00 PM - 01:30 PM: Lunch<br>
-01:30 PM - 02:30 PM: Talk: A gentle intro to Hugging Face and Python<br>
-02:30 PM - 03:15 PM: Exercise: Running pipelines<br>
+11:00 AM - 12:00 PM: Discussion: Find applications in small groups<br>
+12:00 PM - 01:00 PM: Lunch<br>
+01:00 PM - 02:00 PM: Talk: A gentle intro to Hugging Face and Python<br>
+02:00 PM - 02:15 PM: Setup Colab<br>
+02:15 PM - 02:45 PM: Exercise: Running pipelines<br>
+02:45 PM - 03:15 PM: Walkthrough<br>
 
 #### Day 2
 09:15 AM - 09:45 AM: Recap quiz<br>
 09:45 AM - 10:45 AM: Talk: Intro to transformers & embeddings<br>
 10:45 AM - 11:00 AM: Break<br>
 11:00 AM - 12:00 PM: Talk: Intro to transformers & embeddings (continued)<br>
-12:00 PM - 01:30 PM: Lunch<br>
-01:30 PM - 03:15 PM: Exercise: Clarifying personality psychology<br>
+12:00 PM - 01:00 PM: Lunch<br>
+01:00 PM - 02:00 PM: Exercise: Clarifying personality psychology<br>
+02:00 PM - 02:30 PM: Walkthrough<br>
+02:30 PM - 03:15 PM: Discussion: Find applications in small groups<br>
 
 #### Day 3
 09:15 AM - 09:45 AM: Recap quiz<br>
 09:45 AM - 10:45 AM: Intro to classification and regression<br>
 10:45 AM - 11:00 AM: Break<br>
 11:00 AM - 12:00 PM: Exercise: Classifying media bias w/ zero & few-shot<br>
-12:00 PM - 01:30 PM: Lunch<br>
-01:30 PM - 02:30 PM: Exercise: Classifying media bias w/ fine-tuning<br>
-02:30 PM - 03:15 PM: Discussion: Pros & Cons of fine-tuning<br>
+12:00 PM - 01:00 PM: Lunch<br>
+01:00 PM - 02:00 PM: Exercise: Classifying media bias w/ fine-tuning<br>
+02:00 PM - 02:30 PM: Walkthrough<br>
+02:30 PM - 03:15 PM: Discussion: Find applications in small groups<br>
 
 #### Day 4
 09:15 AM - 09:45 AM: Recap quiz<br>
 09:45 AM - 10:45 AM: Intro to text generation & synthetic participants<br>
 10:45 AM - 11:00 AM: Break<br>
 11:00 AM - 12:00 PM: Exercise: Numeracy<br>
-12:00 PM - 01:30 PM: Lunch<br>
-01:30 PM - 02:30 PM: Exercise: Steering vaccine hesitancy response<br>
-02:30 PM - 03:15 PM: Discussion: Pros & Cons of synthetic participants<br>
+12:00 PM - 01:00 PM: Lunch<br>
+01:00 PM - 02:00 PM: Exercise: Steering vaccine hesitancy response<br>
+02:00 PM - 02:30 PM: Walkthrough<br>
+02:30 PM - 03:15 PM: Discussion: Find applications in small groups<br>
 
 #### Day 5
 09:15 AM - 09:45 AM: Recap quiz<br>
 09:45 AM - 10:45 AM: Talk: Intro to qualitative data analysis<br>
 10:45 AM - 11:00 AM: Break<br>
 11:00 AM - 12:00 PM: Exercise: Article and interview Q&A<br>
-12:00 PM - 01:30 PM: Lunch<br>
-01:30 PM - 03:00 PM: Project pitches<br>
+12:00 PM - 01:00 PM: Lunch<br>
+01:00 PM - 03:00 PM: Project pitches<br>
 03:00 PM - 03:15 PM: Wrap up<br>
 
 ### Examination
