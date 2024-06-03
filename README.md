@@ -91,8 +91,7 @@ drive.mount("/content/drive")
 !git clone https://github.com/Zak-Hussain/LLM4BeSci_GSERM2024.git
 ```
 5. Go back to your Google Drive and navigate to the folder "LLM4SocBeSci". You should see the directories `day_1`, `day_2`,`day_3`, `day_4`, and `day_5` containing the relevant notebooks (.ipynb files) and data (it may take  a couple of minutes for the files to appear) for the exercises of each day.
-6. Open the folder `day_1` and then the `day_1.ipynb` notebook. A new Colab window will open. 
-7. In the top menu bar, click Runtime > Change runtime type > Hardware accelerator > T4 GPU
-8. Run the first cell of the notebook to install the required packages. This may take a few minutes and ask for you to give permission to access your Google Drive. 
+6. Open the folder `day_1` and then the `day_1.ipynb` notebook. A new Colab window will open.
+7. Run the first cell of the notebook to install the required packages. This may take a few minutes and ask for you to give permission to access your Google Drive. 
 
 You are now ready to start the exercises!
