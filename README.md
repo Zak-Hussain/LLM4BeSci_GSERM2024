@@ -31,9 +31,9 @@ Instructors: [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and 
 09:15 AM - 09:45 AM: Recap quiz<br>
 09:45 AM - 10:45 AM: [Intro to classification and regression](day_3/day_3.pdf)<br>
 10:45 AM - 11:00 AM: Break<br>
-11:00 AM - 12:00 PM: Exercise: Classifying media bias w/ zero & few-shot<br>
+11:00 AM - 12:00 PM: [Exercise: Classifying media bias w/ zero & few-shot](day_3/day_3a.ipynb)<br>
 12:00 PM - 01:00 PM: Lunch<br>
-01:00 PM - 02:00 PM: Exercise: Classifying media bias w/ fine-tuning<br>
+01:00 PM - 02:00 PM: [Exercise: Classifying media bias w/ fine-tuning](day_3/day_3b.ipynb)<br>
 02:00 PM - 02:30 PM: Walkthrough<br>
 02:30 PM - 03:15 PM: Discussion: Find applications in small groups<br>
 
@@ -41,9 +41,9 @@ Instructors: [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and 
 09:15 AM - 09:45 AM: Recap quiz<br>
 09:45 AM - 10:45 AM: [Intro to text generation & synthetic participants](day_4/day_4.pdf)<br>
 10:45 AM - 11:00 AM: Break<br>
-11:00 AM - 12:00 PM: Exercise: Numeracy<br>
+11:00 AM - 12:00 PM: [Exercise: Numeracy](day_4/day_4a.ipynb)<br>
 12:00 PM - 01:00 PM: Lunch<br>
-01:00 PM - 02:00 PM: Exercise: Steering vaccine hesitancy response<br>
+01:00 PM - 02:00 PM: [Exercise: Steering vaccine hesitancy response](day_4/day_4a.ipynb)<br>
 02:00 PM - 02:30 PM: Walkthrough<br>
 02:30 PM - 03:15 PM: Discussion: Find applications in small groups<br>
 
