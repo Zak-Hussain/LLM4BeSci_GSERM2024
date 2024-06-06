@@ -29,7 +29,7 @@ Instructors: [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and 
 
 #### Day 3
 09:15 AM - 09:45 AM: Recap quiz<br>
-09:45 AM - 10:45 AM: Intro to classification and regression<br>
+09:45 AM - 10:45 AM: [Intro to classification and regression](day_3/day_3.pdf)<br>
 10:45 AM - 11:00 AM: Break<br>
 11:00 AM - 12:00 PM: Exercise: Classifying media bias w/ zero & few-shot<br>
 12:00 PM - 01:00 PM: Lunch<br>
@@ -39,7 +39,7 @@ Instructors: [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and 
 
 #### Day 4
 09:15 AM - 09:45 AM: Recap quiz<br>
-09:45 AM - 10:45 AM: Intro to text generation & synthetic participants<br>
+09:45 AM - 10:45 AM: [Intro to text generation & synthetic participants](day_4/day_4.pdf)<br>
 10:45 AM - 11:00 AM: Break<br>
 11:00 AM - 12:00 PM: Exercise: Numeracy<br>
 12:00 PM - 01:00 PM: Lunch<br>
