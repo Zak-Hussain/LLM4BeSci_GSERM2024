@@ -14,7 +14,7 @@ Instructors: [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and 
 12:00 PM - 01:00 PM: Lunch<br>
 01:00 PM - 02:00 PM: Talk: A gentle intro to Hugging Face and Python<br>
 02:00 PM - 02:15 PM: Setup Colab<br>
-02:15 PM - 02:45 PM: Exercise: Running pipelines<br>
+02:15 PM - 02:45 PM: [Exercise: Running pipelines](day_1/day_1.ipynb)<br>
 02:45 PM - 03:15 PM: Walkthrough<br>
 
 #### Day 2
