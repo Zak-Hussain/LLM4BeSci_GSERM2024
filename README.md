@@ -8,7 +8,7 @@ Instructors: [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and 
 
 #### Day 1
 <font style="font-size:10">09:15 AM - 09:45 AM: Welcome & Intro<br>
-09:45 AM - 10:45 AM: Talk: Intro to LLMs<br>
+09:45 AM - 10:45 AM: [Talk: Intro to LLMs](day_1/day_1.pdf)<br>
 10:45 AM - 11:00 AM: Break<br>
 11:00 AM - 12:00 PM: Discussion: Find applications in small groups<br>
 12:00 PM - 01:00 PM: Lunch<br>
