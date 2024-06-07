@@ -68,7 +68,8 @@ The course grade will be determined based on the quality of a project pitch at t
  publisher={PsyArXiv},
  author={Hussain, Zak and Binz, Marcel and Mata, Rui and Wulff, Dirk U},
  year={2023},
- month={Dec}
+ month={Dec},
+ doi={https://doi.org/10.31234/osf.io/f7stn}
 }
 ```
 [Hugging face documentation](https://huggingface.co/docs)<br>
