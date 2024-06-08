@@ -12,7 +12,7 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 10:45 AM - 11:00 AM: Break<br>
 11:00 AM - 12:00 PM: Discussion: Find applications in small groups<br>
 12:00 PM - 01:00 PM: Lunch<br>
-01:00 PM - 02:00 PM: Talk: A gentle intro to Hugging Face and Python<br>
+01:00 PM - 02:00 PM: [Talk: A gentle intro to Hugging Face and Python](day_1/day_1_hf.pdf)<br>
 02:00 PM - 02:15 PM: Setup Colab<br>
 02:15 PM - 02:45 PM: [Exercise: Running pipelines](day_1/day_1.ipynb)<br>
 02:45 PM - 03:15 PM: Walkthrough<br>
