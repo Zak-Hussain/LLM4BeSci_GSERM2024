@@ -62,7 +62,8 @@ The course grade will be determined based on the quality of a project pitch at t
 
 
 ### Resources
-<a href="https://osf.io/preprints/psyarxiv/f7stn">
+<a href="https://osf.io/preprints/psyarxiv/f7stn">Hussain, Binz, Mata, & Wulff (2024) A tutorial on open-source large language models for behavioral science
+</a>
 ```@misc{hussain_binz_mata_wulff_2023,
  title={A tutorial on open-source large language models for behavioral science},
  url={osf.io/preprints/psyarxiv/f7stn},
@@ -73,7 +74,7 @@ The course grade will be determined based on the quality of a project pitch at t
  doi={https://doi.org/10.31234/osf.io/f7stn}
 }
 ```
-</a>
+
 [Hugging face documentation](https://huggingface.co/docs)<br>
 [Hugging face book](https://transformersbook.com/)<br>
 [But what is a GPT (3Blue1Brown)](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)<br>
