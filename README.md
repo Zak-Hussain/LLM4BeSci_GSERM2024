@@ -12,7 +12,7 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 10:45 AM - 11:00 AM: Break<br>
 11:00 AM - 12:00 PM: Discussion: Find applications in small groups<br>
 12:00 PM - 01:00 PM: Lunch<br>
-01:00 PM - 02:00 PM: Talk: A gentle intro to Hugging Face and Python<br>
+01:00 PM - 02:00 PM: [Talk: A gentle intro to Hugging Face and Python](day_1/day_1_hf.pdf)<br>
 02:00 PM - 02:15 PM: Setup Colab<br>
 02:15 PM - 02:45 PM: [Exercise: Running pipelines](day_1/day_1.ipynb)<br>
 02:45 PM - 03:15 PM: Walkthrough<br>
@@ -49,26 +49,32 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 
 #### Day 5
 09:15 AM - 09:45 AM: Recap quiz<br>
-09:45 AM - 10:45 AM: Talk: Intro to qualitative data analysis<br>
+09:45 AM - 10:45 AM: [Talk: Intro to qualitative data analysis](day_5/day_5.pdf)<br>
 10:45 AM - 11:00 AM: Break<br>
-11:00 AM - 12:00 PM: Exercise: Article and interview Q&A<br>
+11:00 AM - 12:00 PM: [Exercise: Article and interview Q&A](day_5/day_5.ipynb)<br>
 12:00 PM - 01:00 PM: Lunch<br>
 01:00 PM - 03:00 PM: Project pitches<br>
 03:00 PM - 03:15 PM: Wrap up<br>
 
 ### Examination
-The course grade will be determined based on the quality of a project pitch at the end of the course and a two-page research paper submitted after the course. The paper communicates an analysis applying large language models to a personal research question, including all parts of a traditional research paper (introduction, method, results, and discussion). The research paper can be based on the examples during the course. The research paper must be submitted via mail (wulff at mpib-berlin.mpg.de) by June 28th.      
+The course grade will be determined based on the quality of a project pitch at the end of the course and a two-page research paper submitted after the course. The paper communicates an analysis applying large language models to a personal research question, including all parts of a traditional research paper (introduction, method, results, and discussion). The research paper can be based on the examples during the course. The research paper must be submitted via mail (wulff at mpib-berlin.mpg.de) by June 28th. To enroll for the research paper send us the slides of your project sketch presentation via mail immediately after the conclusion of the course.      
+
+
 
 ### Resources
+<a href="https://osf.io/preprints/psyarxiv/f7stn">Hussain, Binz, Mata, & Wulff (2024) A tutorial on open-source large language models for behavioral science
+</a>
 ```@misc{hussain_binz_mata_wulff_2023,
  title={A tutorial on open-source large language models for behavioral science},
  url={osf.io/preprints/psyarxiv/f7stn},
  publisher={PsyArXiv},
  author={Hussain, Zak and Binz, Marcel and Mata, Rui and Wulff, Dirk U},
  year={2023},
- month={Dec}
+ month={Dec},
+ doi={https://doi.org/10.31234/osf.io/f7stn}
 }
 ```
+
 [Hugging face documentation](https://huggingface.co/docs)<br>
 [Hugging face book](https://transformersbook.com/)<br>
 [But what is a GPT (3Blue1Brown)](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)<br>
